@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Banana",
+    "icon": "🍌",
+    "rating": "6/10",
+    "description": "Soft and sweet",
+    "id": "banana"
+  },
+  {
+    "name": "Apple",
+    "icon": "🍎",
+    "rating": "8/10",
+    "description": "Crisp and sweet",
+    "id": "apple"
+  },
+  {
+    "name": "Orange",
+    "icon": "🍊",
+    "rating": "9/10",
+    "description": "Juicy and tangy",
+    "id": "orange"
+  },
+  {
+    "name": "Pineapple",
+    "icon": "🍍",
+    "rating": "10/10",
+    "description": "Big and tangy",
+    "id": "pineapple"
+  }
+]
