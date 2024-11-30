@@ -45,9 +45,7 @@ export default function Entry({ thingsPostData }) {
             </>
           ) : (
             <>
-              <p>
-                We're sorry. An error has occourred. Please try again later.
-              </p>
+              <p>Sorry. An error has occourred. Please try again later.</p>
             </>
           )}
         </div>
