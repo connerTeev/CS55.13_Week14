@@ -26,7 +26,7 @@ export async function getStaticPaths() {
 //export our dynamically routed page component 'Entry'
 export default function Entry({ thingsPostData }) {
   function postMarkup() {
-    return { __html: thingsPostData.ting_description };
+    return { __html: thingsPostData.thing_description };
   }
   return (
     <Layout>
